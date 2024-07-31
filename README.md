@@ -1,4 +1,4 @@
-# Lab 10b: Image Processing (Week 2)
+# Lab 12: Wavelet and Other Image Transforms
 
 ## Getting Started
 
